@@ -182,6 +182,20 @@
               "tr/projects/nuttx",
               "tr/projects/px4",
               "tr/projects/vtol",
+              {
+                "group": "Quadcopter Yapımı",
+                "pages": [
+                  "tr/projects/quadcopter/overview",
+                  "tr/projects/quadcopter/introduction",
+                  "tr/projects/quadcopter/mechanics",
+                  "tr/projects/quadcopter/avionics",
+                  "tr/projects/quadcopter/software",
+                  "tr/projects/quadcopter/assembly",
+                  "tr/projects/quadcopter/architecture",
+                  "tr/projects/quadcopter/configurations",
+                  "tr/projects/quadcopter/references"
+                ]
+              },
               "tr/projects/swupdate",
               "tr/projects/mediabox",
               "tr/projects/firewall",
